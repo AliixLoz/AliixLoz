@@ -29,7 +29,7 @@ Me encanta crear cosas lindas, funcionales y con propósito. Soy desarrolladora 
 
 ### ⌨️ Stats
 
-[![Aliix's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliixLoz&show_icons=true&theme=rose_pine&icon_color=ffb6c1&title_color=ff69b4&text_color=ffcad4&bg_color=fff0f5)](https://github.com/AliixLoz)
+[![Aliix's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliixLoz&show_icons=true&theme=rose_pine&icon_color=ffb6c1&title_color=ff69b4&text_color=ffcad4&bg_color=000000)]
 
 ------
 
